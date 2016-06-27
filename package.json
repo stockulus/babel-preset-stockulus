@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-stockulus",
-  "version": "6.0.0",
+  "version": "6.0.1",
   "description": "Babel preset for all plugins needed with latest stable node.",
   "author": "Christoph Stock",
   "homepage": "https://babeljs.io/",
@@ -30,10 +30,10 @@
     "babel-plugin-transform-es2015-spread": "6.8.0",
     "babel-plugin-transform-es2015-sticky-regex": "6.8.0",
     "babel-plugin-transform-es2015-template-literals": "6.8.0",
-    "babel-plugin-transform-es2015-unicode-regex": "6.8.0",
+    "babel-plugin-transform-es2015-unicode-regex": "6.11.0",
     "babel-plugin-transform-object-assign": "6.8.0",
     "babel-plugin-transform-object-rest-spread": "6.8.0",
     "babel-plugin-transform-regenerator": "6.9.0",
-    "semver": "5.1.0"
+    "semver": "5.1.1"
   }
 }
