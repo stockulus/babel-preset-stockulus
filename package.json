@@ -7,6 +7,9 @@
   "license": "MIT",
   "repository": "https://github.com/stockulus/babel-preset-stockulus.git",
   "main": "index.js",
+  "scripts": {
+    "updtr": "updtr --save-exact"
+  },
   "engines": {
     "node": ">= 4.0.0"
   },
