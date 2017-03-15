@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-stockulus",
-  "version": "6.23.0",
+  "version": "6.23.1",
   "description": "Babel preset for all plugins needed with latest stable node.",
   "author": "Christoph Stock (@stockulus)",
   "homepage": "https://babeljs.io/",
@@ -27,7 +27,7 @@
     "babel-plugin-transform-es2015-for-of": "6.23.0",
     "babel-plugin-transform-es2015-function-name": "6.22.0",
     "babel-plugin-transform-es2015-literals": "6.22.0",
-    "babel-plugin-transform-es2015-modules-commonjs": "6.23.0",
+    "babel-plugin-transform-es2015-modules-commonjs": "6.24.0",
     "babel-plugin-transform-es2015-parameters": "6.23.0",
     "babel-plugin-transform-es2015-shorthand-properties": "6.22.0",
     "babel-plugin-transform-es2015-spread": "6.22.0",
