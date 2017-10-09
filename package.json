@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-stockulus",
-  "version": "6.24.0",
+  "version": "6.25.0",
   "description": "Babel preset for all plugins needed with latest stable node.",
   "author": "Christoph Stock (@stockulus)",
   "homepage": "https://babeljs.io/",
